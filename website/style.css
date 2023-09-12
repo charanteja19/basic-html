@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(8, 8, 8);
+    color: rgb(247, 247, 247);
+    text-align: center;
+    background-image: url(ocean-3605547_1280.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+}
+
+
+@media only screen and (max-width: 600px) {
+    body {
+    
+        background-color: aqua;
+  }
